@@ -27,7 +27,7 @@ The deploy.js file will deploy our smart contract to the Rinkeby Test Network. T
 6) Install Git in your computer from [here.](https://git-scm.com/downloads)
 7) Open up your cmd. Navigate to the folder Lottery in your cmd. 
 8) Run the command- 'npm init' in our Lottery folder. This will create a package.json file in your directory.
-9) Install packages Truffle, Mocha, Ganache-CLI and Web3 by running the command 'npm install --save truffle-hdwallet-provider@0.0.3 mocha      ganache-cli web3'. Truffle is a development environment, testing framework and asset pipeline for Ethereum. Mocha is a testing framework    which will be required by our lottery.test.js file. Ganache provides a environment for truffle. Web3 is a collection of libraries which    allow you to interact with a local or remote ethereum node.
+9) Install packages Truffle, Mocha, Ganache-CLI and Web3 by running the command 'npm install --save truffle-hdwallet-provider@0.0.3    mocha ganache-cli web3'. Truffle is a development environment, testing framework and asset pipeline for Ethereum. Mocha is a testing framework which will be required by our lottery.test.js file. Ganache provides a environment for truffle. Web3 is a collection of libraries which allows you to interact with a local or remote ethereum node.
 10) To compile our smart contract, run command 'node compile.js'. 
 11) To test our smart contract, run 'npm run test'.
 12) Install MetaMask which is an extension for browsers like Chrome to easily track your transactions and accounts.
