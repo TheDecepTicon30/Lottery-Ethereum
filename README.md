@@ -20,7 +20,7 @@ The deploy.js file will deploy our smart contract to the Rinkeby Test Network. T
 
 # Steps to configure the project and to run our Smart Contract and deploy it on Rinkeby TestNet.
 1) Create a folder named Lottery in your working directory.
-2) Create a folder named contracts in Lottery and sace our smart contract in this folder.
+2) Create a folder named contracts in Lottery and save our smart contract in this folder.
 3) Place the compile.js and deploy.js in the folder Lottery itself.
 4) Create a folder named test and save the lottery.test.js here.
 5) Install NodeJS in your computer from [here.](https://nodejs.org/en/) Use the recommended version.
